@@ -1,0 +1,38 @@
+
+
+.nad {
+    background-color: rgb(233, 92, 92);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+hr {
+    background-color: black;
+    height: 1px;
+    position: relative;
+    bottom: 28px;
+}
+
+.menu {
+    position: relative;
+    bottom: 25px;
+    
+}
+
+ul {
+    padding-left: 48.2%;
+    margin-bottom: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+   
+}
